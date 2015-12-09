@@ -1,4 +1,4 @@
-mp_csharp_ws
+WS_CLOUDINARY
 ============
 
 C# Windows Service to delete Cloudinary Resources
