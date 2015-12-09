@@ -1,0 +1,6 @@
+*.config
+*.log
+*.txt
+bin/Debug/InstallUtil.InstallLog
+bin/
+obj/
